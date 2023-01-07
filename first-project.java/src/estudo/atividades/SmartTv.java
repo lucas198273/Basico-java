@@ -1,4 +1,4 @@
-package estudo.atividadetelevisao;
+package estudo.atividades;
 
 public class SmartTv {
     boolean ligada = false;
@@ -12,6 +12,11 @@ public class SmartTv {
     public void desligar(){
         ligada = false;
         System.out.println("Status:  Televisao Desligada");
+        
+    }
+    public void mudarCanal(int novoCanal){
+        canal = novoCanal;
+        System.out.println("Canal Atual: "+ novoCanal);
     }
     public void aumentarVolume(){
         //volume = volume +1;
@@ -22,10 +27,6 @@ public class SmartTv {
         //volume = volume -1;
         volume--;
         System.out.println("Volume Dimunuido para: "+ volume);
-    }
-    public void mudarCanal(int novoCanal){
-          canal = novoCanal;
-          System.out.println("Canal Atual: "+ novoCanal);
     }
     public void aumanetarCanal(){
         canal++;

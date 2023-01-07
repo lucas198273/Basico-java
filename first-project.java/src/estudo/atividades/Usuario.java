@@ -1,4 +1,4 @@
-package estudo.atividadetelevisao;
+package estudo.atividades;
 
 public class Usuario {
 
