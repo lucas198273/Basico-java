@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch fluxo",
+            "request": "launch",
+            "mainClass": "estudo.exerciciofluxo.fluxo",
+            "projectName": "java_c2b1f485"
+        },
+        {
+            "type": "java",
+            "name": "Launch main",
+            "request": "launch",
+            "mainClass": "estudo.exerciciofluxo.main",
+            "projectName": "java_c2b1f485"
+        },
+        {
+            "type": "java",
             "name": "Launch Usuario",
             "request": "launch",
             "mainClass": "estudo.atividades.Usuario",
