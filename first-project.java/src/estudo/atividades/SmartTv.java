@@ -7,7 +7,7 @@ public class SmartTv {
 
     public void ligar(){
         ligada = true;
-        System.out.println("Status : Televeisao Ligada");
+        System.out.println("Status : Televisao Ligada");
     }
     public void desligar(){
         ligada = false;
@@ -34,7 +34,7 @@ public class SmartTv {
     }
     public void diminuirCanal(){
         canal--;
-        System.out.println("Canal atual: "+ canal);
+        System.out.println("Canal atual:: "+ canal);
     }
 
 }

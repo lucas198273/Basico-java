@@ -39,7 +39,7 @@ public class comparacao {
         int quantidadeDependentes = 4;
         int mediaDependentes = 2 ;
 
-        // Abaixo havera exemplos de 2 formas de se saber se a pessoa vai 
+        //Abaixo havera exemplos de 2 formas de se saber se a pessoa vai 
         //  receber auxilo ou nao
 
 
@@ -48,9 +48,9 @@ public class comparacao {
         boolean salarioBaixo = salarioMensal < mediaSalarial;
         boolean muitosDependentes = quantidadeDependentes >= mediaDependentes;
         
-        System.out.println((salarioBaixo) && (muitosDependentes));
+       // System.out.println((salarioBaixo) && (muitosDependentes));
 
-        // segundo exmplo
+        // segundo exmplo  MAIS EFICIENTE
 
         boolean recebeAuxilio = (salarioBaixo) && (muitosDependentes);
         System.out.println("Recebe auxilio =" +recebeAuxilio);

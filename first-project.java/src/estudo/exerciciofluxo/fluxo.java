@@ -2,7 +2,7 @@ package estudo.exerciciofluxo;
 
 public class fluxo  {
     public static void main(String[] args){
-        String dia = "sexta";
+        String dia = "segunda";
         switch (dia) {
             case "domingo":
             System.out.println("DOMINGO");
@@ -16,8 +16,8 @@ public class fluxo  {
             case "quarta":
                 System.out.println("quarta");
                 break;
-            case "quinta":
-                System.out.println("sexta");
+            case "quinta": 
+                System.out.println("quinta");
                 break;
             case "sexta":
                 System.out.println("sexta");

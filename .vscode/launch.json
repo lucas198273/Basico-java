@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Ex1_OrdemInversa",
+            "request": "launch",
+            "mainClass": "estudo.exerciciosArray.Ex1_OrdemInversa",
+            "projectName": "java_c2b1f485"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex6_Fatorial",
+            "request": "launch",
+            "mainClass": "estudo.exerciciosloops.Ex6_Fatorial",
+            "projectName": "java_c2b1f485"
+        },
+        {
+            "type": "java",
+            "name": "Launch EX5_Tabuada",
+            "request": "launch",
+            "mainClass": "estudo.exerciciosloops.EX5_Tabuada",
+            "projectName": "java_c2b1f485"
+        },
+        {
+            "type": "java",
+            "name": "Launch teste",
+            "request": "launch",
+            "mainClass": "estudo.exerciciofluxo.teste",
+            "projectName": "java_c2b1f485"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex3_ParImpar",
+            "request": "launch",
+            "mainClass": "estudo.exerciciosloops.Ex3_ParImpar",
+            "projectName": "java_c2b1f485"
+        },
+        {
+            "type": "java",
+            "name": "Launch EX4_MaioreMedia",
+            "request": "launch",
+            "mainClass": "estudo.exerciciosloops.EX4_MaioreMedia",
+            "projectName": "java_c2b1f485"
+        },
+        {
+            "type": "java",
+            "name": "Launch EX2_nota",
+            "request": "launch",
+            "mainClass": "estudo.exerciciosloops.EX2_nota",
+            "projectName": "java_c2b1f485"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex1_NomeIdade",
+            "request": "launch",
+            "mainClass": "estudo.exerciciosloops.Ex1_NomeIdade",
+            "projectName": "java_c2b1f485"
+        },
+        {
+            "type": "java",
+            "name": "Launch EX6__Fatorial",
+            "request": "launch",
+            "mainClass": "estudo.exerciciosloops.EX6__Fatorial",
+            "projectName": "java_c2b1f485"
+        },
+        {
+            "type": "java",
             "name": "Launch fluxo",
             "request": "launch",
             "mainClass": "estudo.exerciciofluxo.fluxo",
