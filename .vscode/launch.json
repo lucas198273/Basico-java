@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch main",
+            "request": "launch",
+            "mainClass": "estudo.metodosaula2.main",
+            "projectName": "java_c2b1f485"
+        },
+        {
+            "type": "java",
+            "name": "Launch main",
+            "request": "launch",
+            "mainClass": "estudo.metodos.main",
+            "projectName": "java_c2b1f485"
+        },
+        {
+            "type": "java",
+            "name": "Launch teste",
+            "request": "launch",
+            "mainClass": "estudo.exerciciosArray.teste",
+            "projectName": "java_c2b1f485"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex4_ArrayMuiltimencional",
+            "request": "launch",
+            "mainClass": "estudo.exerciciosArray.Ex4_ArrayMuiltimencional",
+            "projectName": "java_c2b1f485"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex2_Consoantes",
+            "request": "launch",
+            "mainClass": "estudo.exerciciosArray.Ex2_Consoantes",
+            "projectName": "java_c2b1f485"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex3_NumerosAleatorios",
+            "request": "launch",
+            "mainClass": "estudo.exerciciosArray.Ex3_NumerosAleatorios",
+            "projectName": "java_c2b1f485"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex2_consoantes",
+            "request": "launch",
+            "mainClass": "estudo.exerciciosArray.Ex2_consoantes",
+            "projectName": "java_c2b1f485"
+        },
+        {
+            "type": "java",
             "name": "Launch Ex1_OrdemInversa",
             "request": "launch",
             "mainClass": "estudo.exerciciosArray.Ex1_OrdemInversa",
